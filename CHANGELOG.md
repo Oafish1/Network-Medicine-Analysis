@@ -1,3 +1,8 @@
+### 2024-03-07
+- Cross-CTL comparisons
+- New embedding similarity loss
+- Reruns
+
 ### 2024-02-21
 - First run of new data
 
