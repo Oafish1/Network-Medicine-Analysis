@@ -1,3 +1,8 @@
+### 2024-04-04
+- Model revisions
+- New data
+- Sfari annotations
+
 ### 2024-03-07
 - Cross-CTL comparisons
 - New embedding similarity loss
