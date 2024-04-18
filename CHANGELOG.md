@@ -1,3 +1,8 @@
+### 2024-04-17
+- Add and revise contrastive learning
+- Revise embedding loss
+- Rewrite GCN
+
 ### 2024-04-04
 - Model revisions
 - New data
