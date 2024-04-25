@@ -1,3 +1,6 @@
+### 2024-04-25
+- Further tuning improvements and experimentation
+
 ### 2024-04-17
 - Add and revise contrastive learning
 - Revise embedding loss
