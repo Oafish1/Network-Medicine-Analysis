@@ -1,3 +1,8 @@
+### 2024-05-02
+- Add cell-type aggregation for significance predictions
+- Revise `graph-training` notebook structure
+- Run additional cohorts
+
 ### 2024-04-25
 - Further tuning improvements and experimentation
 
