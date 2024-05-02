@@ -1,5 +1,6 @@
-### 2024-05-02
+### 2024-05-02 (1-2)
 - Add cell-type aggregation for significance predictions
+- DLPFC SCZ runs
 - Revise `graph-training` notebook structure
 - Run additional cohorts
 
