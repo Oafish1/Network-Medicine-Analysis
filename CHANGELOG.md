@@ -1,5 +1,6 @@
-### 2024-05-08
+### 2024-05-08 (1-2)
 - Add many visualizations
+- Figure revisions
 - Rerun networks
 
 ### 2024-05-05 (1-2)
