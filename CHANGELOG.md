@@ -1,6 +1,7 @@
-### 2024-05-15
+### 2024-05-15 (1-3)
 - Add stat annotations
 - Additional runs
+- Figure revisions
 - Formatting
 - Group visualizations
 - More distrubution visualizations
