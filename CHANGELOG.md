@@ -1,3 +1,8 @@
+### 2024-05-21
+- More maintenance on file-management for flexible panels
+- Real drug target analyses
+- Various coloration fixes
+
 ### 2024-05-15 (1-3)
 - Add stat annotations
 - Additional runs
