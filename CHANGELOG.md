@@ -1,3 +1,6 @@
+### 2024-06-06
+- Figure updates
+
 ### 2024-06-05
 - Further drug analysis (blood brain barrier)
 - Move performance visualizations to proper notebook, store results
