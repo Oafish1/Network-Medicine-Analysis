@@ -1,3 +1,9 @@
+### 2024-06-05
+- Further drug analysis (blood brain barrier)
+- Move performance visualizations to proper notebook, store results
+- Syntax revisions for training notebook
+- Tweak panel scales
+
 ### 2024-05-30
 - Figure changes
 
