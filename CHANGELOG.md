@@ -1,5 +1,6 @@
-### 2024-06-13
+### 2024-06-13 (1-2)
 - Add enrichment for `UCLA_ASD_Micro`
+- Figure updates
 
 ### 2024-06-12
 - Enhanced and grouped BBB comparisons
