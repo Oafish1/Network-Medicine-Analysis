@@ -1,3 +1,12 @@
+### 2024-07-10
+- Add new performance visualization
+- Add new score distribution visualization
+- Make group visualizations
+
+### 2024-07-08
+- Added disease-only calculations
+- Added subclass GRN runs and data
+
 ### 2024-06-13 (1-2)
 - Add enrichment for `UCLA_ASD_Micro`
 - Figure updates
