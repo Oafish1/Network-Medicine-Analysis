@@ -1,3 +1,7 @@
+### 2024-07-11
+- New enrichment methodologies
+- Revised visualizations
+
 ### 2024-07-10
 - Add new performance visualization
 - Add new score distribution visualization
