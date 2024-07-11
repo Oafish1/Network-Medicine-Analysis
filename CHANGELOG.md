@@ -1,4 +1,5 @@
-### 2024-07-11
+### 2024-07-11 (1-2)
+- Figure revisions
 - New enrichment methodologies
 - Revised visualizations
 
