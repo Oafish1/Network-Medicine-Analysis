@@ -1,6 +1,7 @@
-### 2024-07-17 (1-2)
+### 2024-07-17 (1-4)
 - Add drug relevance plots
 - Add vertical orientation to performance plots
+- Figure updates
 - Fix performance plot scaling
 - Generated drug relevancy lists
 
