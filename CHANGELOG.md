@@ -1,3 +1,7 @@
+### 2024-07-17
+- Add vertical orientation to performance plots
+- Generated drug relevancy lists
+
 ### 2024-07-11 (1-2)
 - Figure revisions
 - New enrichment methodologies
