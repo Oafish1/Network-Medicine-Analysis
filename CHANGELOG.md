@@ -1,4 +1,5 @@
-### 2024-07-24 (1-2)
+### 2024-07-24 (1-3)
+- Add disease relevance KDEPlots
 - Change scaling for performance plots
 - Figure updates
 - Plot adjustments
