@@ -1,5 +1,6 @@
-### 2024-07-24
+### 2024-07-24 (1-2)
 - Change scaling for performance plots
+- Figure updates
 - Plot adjustments
 - Run disease only for subclass GRNs
 
