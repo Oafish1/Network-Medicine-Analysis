@@ -1,3 +1,8 @@
+### 2024-07-24
+- Change scaling for performance plots
+- Plot adjustments
+- Run disease only for subclass GRNs
+
 ### 2024-07-17 (1-4)
 - Add drug relevance plots
 - Add vertical orientation to performance plots
