@@ -1,3 +1,6 @@
+### 2024-07-25
+- Figure updates
+
 ### 2024-07-24 (1-4)
 - Add drug relevance KDEPlots
 - Change scaling for performance plots
