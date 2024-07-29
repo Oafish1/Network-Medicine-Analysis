@@ -1,4 +1,4 @@
-### 2024-07-29
+### 2024-07-29 (1-2)
 - Add broken score for disease distribution plot
 - Clean up plot labels
 - Only use one SCZ cohort
