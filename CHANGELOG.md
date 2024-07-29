@@ -1,3 +1,10 @@
+### 2024-07-29
+- Add broken score for disease distribution plot
+- Clean up plot labels
+- Only use one SCZ cohort
+- Revise drug relevance score
+- Scale gene relevance scores
+
 ### 2024-07-25
 - Figure updates
 
