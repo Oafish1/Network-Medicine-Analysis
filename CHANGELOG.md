@@ -1,7 +1,8 @@
-### 2024-07-31
+### 2024-07-31 (1-2)
 - Add runs with module labels
 - Additional module runs and performance visualizations
 - Compatibility with negative and unknown labels
+- Figure updates
 - Make the training process more robust
 
 ### 2024-07-29 (1-2)
