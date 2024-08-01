@@ -1,3 +1,9 @@
+### 2024-07-31
+- Add runs with module labels
+- Additional module runs and performance visualizations
+- Compatibility with negative and unknown labels
+- Make the training process more robust
+
 ### 2024-07-29 (1-2)
 - Add broken score for disease distribution plot
 - Clean up plot labels
