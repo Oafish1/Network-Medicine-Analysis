@@ -1,6 +1,8 @@
-### 2024-08-08 (1-2)
+### 2024-08-08 (1-3)
 - Add model and module ensemble
 - Compatibility updates for model and non-model plotting
+- Figure revisions
+- Figure file reorganization
 - Fix result aggregation file output
 - Formatting changes for score distribution
 - New visualizations for performance and drug relevance
