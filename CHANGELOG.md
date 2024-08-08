@@ -1,4 +1,4 @@
-### 2024-08-08
+### 2024-08-08 (1-2)
 - Add model and module ensemble
 - Compatibility updates for model and non-model plotting
 - Fix result aggregation file output
