@@ -1,3 +1,11 @@
+### 2024-08-08
+- Add model and module ensemble
+- Compatibility updates for model and non-model plotting
+- Fix result aggregation file output
+- Formatting changes for score distribution
+- New visualizations for performance and drug relevance
+- Standardize font usage
+
 ### 2024-07-31 (1-2)
 - Add runs with module labels
 - Additional module runs and performance visualizations
