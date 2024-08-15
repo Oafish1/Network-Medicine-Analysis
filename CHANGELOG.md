@@ -1,3 +1,15 @@
+### 2024-08-15
+- Cell type coloration
+- Many plot revisions
+- Python script revisions
+- Reorganization
+- Runs with proximal links
+- Subclass model runs using supertypes
+
+### 2024-08-09
+- Enhanced training script
+- Runs not using distal links
+
 ### 2024-08-08 (1-3)
 - Add model and module ensemble
 - Compatibility updates for model and non-model plotting
