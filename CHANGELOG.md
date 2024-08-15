@@ -1,5 +1,6 @@
-### 2024-08-15
+### 2024-08-15 (1-2)
 - Cell type coloration
+- Figure revisions
 - Many plot revisions
 - Python script revisions
 - Reorganization
