@@ -1,3 +1,18 @@
+### 2024-08-21
+- Add BBB shape legend
+- Add shape legend for BBB analysis
+- Allow for coregulatory network input
+- Change font and refresh matplotlib font cache
+- Figure revisions
+- Fix bug with filtering out distal links
+- Fix runs for major and minor cell types together
+- Make graph training more robust
+- Make legend isolation easier
+- Many visual changes to plots
+- Runs on coregulation networks (incomplete)
+- Script revisions
+- Separated BBB analysis legend
+
 ### 2024-08-15 (1-2)
 - Cell type coloration
 - Figure revisions
