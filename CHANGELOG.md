@@ -1,3 +1,9 @@
+### 2024-08-28
+- Complete rewrite of figure visualizations, including several new analyses
+- Major figure revisions
+- Runs for coregulation
+- Various bugfixes
+
 ### 2024-08-21
 - Add BBB shape legend
 - Add shape legend for BBB analysis
