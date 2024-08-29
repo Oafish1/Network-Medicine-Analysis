@@ -1,3 +1,8 @@
+### 2024-08-29
+- Add optional filter to remove positive labels from decile estimation
+- Figure updates
+- Update colors of subclasses to match major classes
+
 ### 2024-08-28
 - Complete rewrite of figure visualizations, including several new analyses
 - Major figure revisions
