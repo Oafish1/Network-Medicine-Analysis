@@ -1,3 +1,11 @@
+### 2024-09-04
+- Add additional scale reference to BBB target analysis and clean up formatting
+- Add extended figure
+- Change decile plot to show highest first
+- Figure changes
+- Revise naming scheme
+- Update flow formethod overview
+
 ### 2024-08-29
 - Add optional filter to remove positive labels from decile estimation
 - Figure updates
