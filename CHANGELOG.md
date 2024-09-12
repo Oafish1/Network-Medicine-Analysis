@@ -1,3 +1,19 @@
+### 2024-09-12
+- Figure changes
+
+### 2024-09-10
+- Add comparative output between model 1 and 2 performances
+- Add percentile to BBB computation
+- Figure changes
+- Revise BBB positive gene calculation
+- Revise novel gene computation
+
+### 2024-09-09
+- Add novel gene computation
+- Fix consistent coloring for minor cell types
+- Revise novel gene display
+- Separate novel heatmap for major and minor cell types
+
 ### 2024-09-04
 - Add additional scale reference to BBB target analysis and clean up formatting
 - Add extended figure
