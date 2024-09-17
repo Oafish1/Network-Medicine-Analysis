@@ -1,4 +1,9 @@
-### 2024-09-12
+### 2024-09-17 (1-2)
+- Clean files
+- Figure revisions
+
+### 2024-09-12 (1-2)
+- Add monochrome option to visualization
 - Figure changes
 
 ### 2024-09-10
