@@ -1,5 +1,5 @@
-### 2024-09-17 (1-2)
-- Clean files
+### 2024-09-17 (1-5)
+- Clean file names and delete errand system files
 - Figure revisions
 
 ### 2024-09-12 (1-2)
