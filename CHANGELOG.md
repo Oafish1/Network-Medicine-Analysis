@@ -1,3 +1,10 @@
+### 2024-09-23
+- Add poster
+- Figure revisions
+
+### 2024-09-19
+- Improve visual clarity for top candidate genes in decile plot
+
 ### 2024-09-17 (1-5)
 - Clean file names and delete errand system files
 - Figure revisions
