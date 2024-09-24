@@ -1,3 +1,8 @@
+### 2024-09-24
+- Add analysis of gene expression levels from bulk data
+- Figure revisions
+- Filter lowly expressed genes in candidate decile analysis
+
 ### 2024-09-23
 - Add poster
 - Figure revisions
