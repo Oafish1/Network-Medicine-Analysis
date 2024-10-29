@@ -1,3 +1,12 @@
+### 2024-10-29
+- Figure updates
+
+### 2024-10-08 (1-2)
+- Figure updates
+
+### 2024-09-27
+- Poster updates
+
 ### 2024-09-24
 - Add analysis of gene expression levels from bulk data
 - Figure revisions
@@ -11,7 +20,7 @@
 - Improve visual clarity for top candidate genes in decile plot
 
 ### 2024-09-17 (1-5)
-- Clean file names and delete errand system files
+- Clean file names and delete errant system files
 - Figure revisions
 
 ### 2024-09-12 (1-2)
