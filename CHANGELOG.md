@@ -1,3 +1,8 @@
+### 2024-11-22
+- Add disease-specific novel gene discovery
+- Add novel gene xlsx output
+- Recompile requirements
+
 ### 2024-10-29
 - Figure updates
 
