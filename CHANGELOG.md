@@ -1,3 +1,6 @@
+### 2024-03-24
+- Add holdout analyses for SCZ and BPD
+
 ### 2024-11-22
 - Add disease-specific novel gene discovery
 - Add novel gene xlsx output
