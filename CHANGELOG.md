@@ -1,3 +1,11 @@
+### 2024-04-08
+- Add PyEnsembl for loci -> gene conversion
+- Add revision figure
+- Fix bug with decile bar ordering for candidate analysis
+- Move candidate labels on decile plot to match decile
+- New BPD genes for revision analysis
+- Update to current directory structure
+
 ### 2024-03-31
 - External dataset decile computation for SCZ and BPD
 
