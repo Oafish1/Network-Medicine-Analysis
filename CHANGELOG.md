@@ -1,3 +1,7 @@
+### 2024-04-11
+- Add MAGMA SNP analysis and Z-score visualization
+- MAGMA SNP revision analysis plots
+
 ### 2024-04-08
 - Add PyEnsembl for loci -> gene conversion
 - Add revision figure
