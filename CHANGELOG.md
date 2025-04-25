@@ -1,3 +1,7 @@
+### 2024-04-23
+- Additional runs and techniques for MAGMA comparison
+- Figure updates
+
 ### 2024-04-11
 - Add MAGMA SNP analysis and Z-score visualization
 - MAGMA SNP revision analysis plots
