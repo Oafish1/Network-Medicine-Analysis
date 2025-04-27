@@ -1,3 +1,7 @@
+### 2024-04-26
+- Figure changes
+- PDF export for revision MAGMA overlap plots
+
 ### 2024-04-23
 - Additional runs and techniques for MAGMA comparison
 - Figure updates
