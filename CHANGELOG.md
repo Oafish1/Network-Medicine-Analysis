@@ -1,3 +1,6 @@
+### 2024-04-28
+- Small organizational changes
+
 ### 2024-04-26
 - Figure changes
 - PDF export for revision MAGMA overlap plots
