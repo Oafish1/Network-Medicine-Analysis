@@ -1,3 +1,6 @@
+### 2024-05-12
+- Figure updates, especially to GRN schematic
+
 ### 2024-04-28
 - Small organizational changes
 
