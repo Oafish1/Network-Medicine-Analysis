@@ -1,4 +1,5 @@
-### 2024-05-13
+### 2024-05-13 (1-2)
+- Add plus sign to GNN figure
 - Small gene highlight correction
 
 ### 2024-05-12
