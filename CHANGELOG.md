@@ -1,3 +1,6 @@
+### 2024-05-13
+- Small gene highlight correction
+
 ### 2024-05-12
 - Figure updates, especially to GRN schematic
 
