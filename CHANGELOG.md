@@ -1,26 +1,30 @@
-### 2024-05-13 (1-2)
+### 2025-06-13
+- Proposal figure version
+- Fix year annotation in changelog
+
+### 2025-05-13 (1-2)
 - Add plus sign to GNN figure
 - Small gene highlight correction
 
-### 2024-05-12
+### 2025-05-12
 - Figure updates, especially to GRN schematic
 
-### 2024-04-28
+### 2025-04-28
 - Small organizational changes
 
-### 2024-04-26
+### 2025-04-26
 - Figure changes
 - PDF export for revision MAGMA overlap plots
 
-### 2024-04-23
+### 2025-04-23
 - Additional runs and techniques for MAGMA comparison
 - Figure updates
 
-### 2024-04-11
+### 2025-04-11
 - Add MAGMA SNP analysis and Z-score visualization
 - MAGMA SNP revision analysis plots
 
-### 2024-04-08
+### 2025-04-08
 - Add PyEnsembl for loci -> gene conversion
 - Add revision figure
 - Fix bug with decile bar ordering for candidate analysis
@@ -28,10 +32,10 @@
 - New BPD genes for revision analysis
 - Update to current directory structure
 
-### 2024-03-31
+### 2025-03-31
 - External dataset decile computation for SCZ and BPD
 
-### 2024-03-24
+### 2025-03-24
 - Add holdout analyses for SCZ and BPD
 
 ### 2024-11-22
